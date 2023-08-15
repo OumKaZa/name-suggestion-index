@@ -20,6 +20,16 @@
       }
     },
     {
+      "displayName": "BMA",
+      "id": "BMA-43cc75",
+      "locationSet": {"include": ["th"]},
+      "tags": {
+        "highway": "bus_stop",
+        "network": "BMA",
+        "network:wikidata": "Q4855218"
+      }
+    },
+    {
       "displayName": "Пловдивски градски транспорт",
       "id": "643361-bac764",
       "locationSet": {"include": ["bg"]},
